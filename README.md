@@ -3,6 +3,11 @@ TurboFilter is a c++ TurboModule for React Native that provides ultra fast filte
 
 TurboFilter has been tested with json datasets of up to 200mb with sub 1 second timings (Arround 120fps on Samsung 24 ultra.)
 
+A simple example is included it contains a JSON dataset with 3000 nodes the data is displayed in tiles within a flat list.
+
+![Screenshot_20250827_215618_RNTurboFilter](https://github.com/user-attachments/assets/7d2f18e2-8cca-4ef7-a745-9415e44a6071)
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
