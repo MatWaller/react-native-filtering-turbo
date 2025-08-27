@@ -9,6 +9,14 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "codegenConfig": {
+    "name": "TurboFilterSpec",
+    "type": "modules",
+    "jsSrcsDir": "specs",
+    "android": {
+      "javaPackageName": "com.turbofilter"
+    }
+  },
   "dependencies": {
     "react": "19.1.0",
     "react-native": "0.81.1",
