@@ -5,7 +5,7 @@ TurboFilter has been tested with json datasets of up to 200mb with sub 1 second 
 
 A simple example is included it contains a JSON dataset with 3000 nodes the data is displayed in tiles within a flat list.
 
-![Screenshot_20250827_215618_RNTurboFilter](https://github.com/user-attachments/assets/b261d98b-6a3b-43e6-a57f-5f60434aaa4b)
+![Screenshot_20250827_215915_RNTurboFilter](https://github.com/user-attachments/assets/78be034a-6e03-489b-86d5-84bcb44668a7)
 
 
 # Getting Started
